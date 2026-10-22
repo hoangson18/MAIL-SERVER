@@ -1,0 +1,6 @@
+# Danh sach tai khoan, dinh dang: username:password
+son:1234
+ban:1234
+test:test
+
+sos111:sos111
