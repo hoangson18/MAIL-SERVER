@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "mailclient\\src",
+        "mailserver\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "C:\\java-libs\\mssql-jdbc-12.8.1.jre11.jar"
+    ]
+}

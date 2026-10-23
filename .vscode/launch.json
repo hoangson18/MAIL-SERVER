@@ -1,0 +1,24 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "▶ MailServer",
+            "request": "launch",
+            "mainClass": "mailserver.MailServer",
+            "projectName": "mail-project_cf6eb703",
+            "classPaths": [
+                "$Auto",
+                "C:/java-libs/mssql-jdbc-12.8.1.jre11.jar"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "▶ MailClient",
+            "request": "launch",
+            "mainClass": "mailclient.MailClient",
+            "projectName": "mail-project_cf6eb703",
+            "classPaths": ["$Auto"]
+        }
+    ]
+}
